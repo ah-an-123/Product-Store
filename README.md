@@ -49,11 +49,12 @@ This project demonstrates complete full-stack development including backend API 
 ## 📁 Project Structure
 
 ```
-mern-stack/
+Product-Store/
 │
 ├── backend/
-│   ├── routers/
 │   ├── models/
+│   ├── controllers/
+│   ├── routers/
 │   ├── utils/
 │   └── server.js
 │
